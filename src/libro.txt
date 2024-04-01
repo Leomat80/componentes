@@ -1,0 +1,16 @@
+const libro={
+    titulo: "leonardo estudiando a carreras",
+    autor: {
+        nombre: "Fabio Herrera",
+        nacionalidad: "colombiano",
+        edad: 43,
+        contacto:{
+            email: "inleomatcode@gmail.com",
+            facebook: "leonardo1mat3us",
+        },
+    },
+    editorial: {
+        nombre: "don quijote de la panza",
+        web: "https://sanchopanza.edu",
+    },
+};
